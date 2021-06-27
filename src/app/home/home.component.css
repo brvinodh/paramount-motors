@@ -1,0 +1,33 @@
+/* 
+.container {
+    background-image: url('/assets/img/canyon.jpg') !important;
+    background-size: cover;
+    background-position: center center;
+    height: 50vh;
+    width: 100%;
+    padding: 0;
+    margin:0;
+  } */
+
+
+  .container2 {
+    background-size:cover;
+    background-position: top center;
+    height: 70vh;
+    width: 100%;
+    padding: 0;
+    margin:0;
+  }
+  
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .center-div {
+    margin: auto;
+    width: 50%;
+    color: white;
+    text-align: center
+}
